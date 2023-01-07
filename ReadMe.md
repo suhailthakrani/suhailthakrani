@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Suhail Thakranir</h1>
+<h1 align="center">Hey, I'm Suhail Thakrani</h1>
 <h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danishanodher&label=Profile%20views&color=0e75b6&style=flat" alt="danishanodher" /> </p>
