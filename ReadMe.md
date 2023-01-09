@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Suhail Thakrani</h1>
 <h3 align="center">A passionate software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhailthakrani&label=Profile%20views&color=0e75b6&style=flat" alt="suhailthakrani" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhailthakrani&label=Profile%20views&color=0e75b6&style=flat" alt="suhailthakrani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/suhailthakrani"><img src="https://github-profile-trophy.vercel.app/?username=suhailthakrani" alt="suhailthakrani" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/suhailthakrani"><img src="https://github-profile-trophy.vercel.app/?username=suhailthakrani" alt="suhailthakrani" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
