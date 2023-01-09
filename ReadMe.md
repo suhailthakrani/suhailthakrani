@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhailthakrani&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" alt="suhailthakrani" /></p>
 
-![Snake animation](https://github.com/suhailthakrani/suhailthakrani/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/suhailthakrani/suhailthakrani/blob/main/github-snake.svg)
