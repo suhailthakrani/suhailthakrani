@@ -10,8 +10,8 @@
 <a href="[linkedin.com/in/suhail-thakrani](https://www.linkedin.com/in/suhail-thakrani/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhail-thakrani" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19723870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19723870" height="30" width="40" /></a>
 <!-- <a href="https://www.youtube.com/c/suhail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code senpaiii" height="30" width="40" /></a> -->
-<a href="https://www.hackerrank.com/suhail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suhailthakrani" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/suhail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suhailthakrani" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/suhail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suhailthakrani" height="30" width="40" /></a> -->
+<!-- <a href="https://www.leetcode.com/suhail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suhailthakrani" height="30" width="40" /></a> -->
 </p> 
 
 <h3 align="left">Languages and Tools:</h3>
