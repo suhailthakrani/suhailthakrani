@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/suhailthakrani"><img src="https://github-profile-trophy.vercel.app/?username=suhailthakrani" alt="suhailthakrani" /></a> </p> -->
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1660415433/60795/folded-hands.gif?1660415433" width="30"/> 𝕃𝕖𝕥’𝕤 ℂ𝕠𝕟𝕟𝕖𝕔𝕥</h2>
 <p align="left">
 <a href="[linkedin.com/in/suhail-thakrani](https://www.linkedin.com/in/suhail-thakrani/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhail-thakrani" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/19723870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19723870" height="30" width="40" /></a> -->
@@ -26,5 +27,13 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suhailthakrani&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<h2><img src="https://slackmojis.com/emojis/60722-clown-face/download" width="30"/> 𝕎𝕒𝕥𝕔𝕙 𝕞𝕪 ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟 𝔾𝕣𝕒𝕡𝕙 𝕘𝕖𝕥 𝕖𝕒𝕥𝕖𝕟 𝕓𝕪 𝕥𝕙𝕖 𝕊𝕟𝕒𝕜𝕖</h2>
+![snake gif](https://raw.githubusercontent.com/akshaynarisetti/akshaynarisetti/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/suhailthakrani/suhailthakrani/blob/main/github-snake.svg)
+
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1660415397/60712/writing-hand.gif?1660415397" width="30"/> 𝔻𝕖𝕧 ℚ𝕦𝕠𝕥𝕖</h2>
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=suhailthakrani&icon=1&color=7)](https://visitcount.itsvg.in)
