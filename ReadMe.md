@@ -21,7 +21,10 @@
 <!-- <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?suhailthakrani=adityaseth777&&show_icons=true&theme=dark" alt="suhailthakrani" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhailthakrani&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=1F222E" alt="suhailthakrani" /></p> -->
-
+![](https://github-readme-stats.vercel.app/api?username=suhailthakrani&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhailthakrani&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" alt="suhailthakrani" /></p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=suhailthakrani&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 ![Snake animation](https://github.com/suhailthakrani/suhailthakrani/blob/main/github-snake.svg)
