@@ -15,7 +15,7 @@
 <!-- <a href="https://www.leetcode.com/suhail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suhailthakrani" height="30" width="40" /></a> -->
 </p> 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2>𝕃anguages and 𝕥ools</h2>
 <p align="left"> 
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
 
@@ -28,7 +28,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suhailthakrani&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <h2><img src="https://slackmojis.com/emojis/60722-clown-face/download" width="30"/> 𝕎𝕒𝕥𝕔𝕙 𝕞𝕪 ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟 𝔾𝕣𝕒𝕡𝕙 𝕘𝕖𝕥 𝕖𝕒𝕥𝕖𝕟 𝕓𝕪 𝕥𝕙𝕖 𝕊𝕟𝕒𝕜𝕖</h2>
-![Snake animation](https://github.com/suhailthakrani/suhailthakrani/blob/main/github-contribution-grid-snake.svg)
+
+![Snake animation](https://raw.githubusercontent.com/suhailthakrani/suhailthakrani/b5a0c10c1d2945157dc33e6f8d11cc55b23f167e/github-contribution-grid-snake.svg)
 
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1660415397/60712/writing-hand.gif?1660415397" width="30"/> 𝔻𝕖𝕧 ℚ𝕦𝕠𝕥𝕖</h2>
