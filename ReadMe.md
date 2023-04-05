@@ -25,7 +25,7 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=suhailthakrani&theme=gotham&hide_border=true&include_all_commits=true&count_private=true) -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhailthakrani&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" alt="suhailthakrani" /></p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suhailthakrani&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suhailthakrani&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 <h2><img src="https://slackmojis.com/emojis/60722-clown-face/download" width="30"/> 𝕎𝕒𝕥𝕔𝕙 𝕞𝕪 ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟 𝔾𝕣𝕒𝕡𝕙 𝕘𝕖𝕥 𝕖𝕒𝕥𝕖𝕟 𝕓𝕪 𝕥𝕙𝕖 𝕊𝕟𝕒𝕜𝕖</h2>
 
