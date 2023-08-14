@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Suhail Thakrani</h1>
-<h3>I am an experienced Flutter Developer skilled in creating visually appealing and user-friendly mobile applications. Passionate about staying up-to-date with the latest trends and best practices in Flutter development. Let's bring your app ideas to life! </h3>
+<h3>I am an experienced Flutter Developer skilled in creating visually appealing and user-friendly mobile applications with state management like Getx, Provider, Bloc. Passionate about staying up-to-date with the latest trends and best practices in Flutter development. Let's bring your app ideas to life! </h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhailthakrani&label=Profile%20views&color=0e75b6&style=flat" alt="suhailthakrani" /> </p>
 
