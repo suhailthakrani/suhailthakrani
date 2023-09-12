@@ -8,7 +8,7 @@
 <!-- <h3 align="left">Connect with me:</h3> -->
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1660415433/60795/folded-hands.gif?1660415433" width="30"/> 𝕃𝕖𝕥’𝕤 ℂ𝕠𝕟𝕟𝕖𝕔𝕥</h2>
 <p align="left">
-<a href="[linkedin.com/in/suhail-thakrani](https://www.linkedin.com/in/suhail-thakrani/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhail-thakrani" height="30" width="40" /></a>
+<a href="[linkedin.com/in/suhail-thakrani](https://www.linkedin.com/in/suhailthakrani/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhail-thakrani" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/19723870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19723870" height="30" width="40" /></a> -->
 <!-- <a href="https://www.youtube.com/c/suhail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code senpaiii" height="30" width="40" /></a> -->
 <!-- <a href="https://www.hackerrank.com/suhail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suhailthakrani" height="30" width="40" /></a> -->
