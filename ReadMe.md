@@ -70,17 +70,12 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhailthakrani&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=1F222E" alt="suhailthakrani" /></p> -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=suhailthakrani&theme=gotham&hide_border=true&include_all_commits=true&count_private=true) -->
-<table width="1200">
-<tr>
-    <td align='center'>
-      <h2>🚀GitHub Analytics</h2>
+ <h2>🚀GitHub Analytics</h2>
         <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhailthakrani&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" alt="suhailthakrani" /></p>
-    </td>
-  <td width = "500" align = "center"><h2><img align = 'center' src="https://emojis.slackmojis.com/emojis/images/1660415397/60712/writing-hand.gif?1660415397" width="30"/> 𝔻𝕖𝕧 ℚ𝕦𝕠𝕥𝕖</h2>
+   
+<h2><img align = 'center' src="https://emojis.slackmojis.com/emojis/images/1660415397/60712/writing-hand.gif?1660415397" width="30"/> 𝔻𝕖𝕧 ℚ𝕦𝕠𝕥𝕖</h2>
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)</td>
-</tr>
-</table>
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suhailthakrani&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
