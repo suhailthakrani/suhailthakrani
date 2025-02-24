@@ -1,89 +1,232 @@
- <h1>Hi, I am Suhail Thakrani 👋
-</h1>
-<h3>
-  I am an experienced Flutter Developer skilled in creating visually appealing and user-friendly mobile applications with state management like Getx, Provider, Riverpod, Bloc, etc. Passionate about staying up-to-date with the latest trends and best practices in Flutter development. Let's bring your app ideas to life! 
-</h3>
+<div align="center">
 
-<!-- <p align="left" style="margin-left: 20px;">
-  <a href="https://github.com/ryo-ma/suhailthakrani">
-    <img src="https://github-profile-trophy.vercel.app/?username=suhailthakrani&theme=nord" alt="suhailthakrani" />
-  </a>
-</p>-->
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00E2FF&random=false&width=600&lines=Hello+%F0%9F%91%8B+I'm+Flutter+Developer+|+Mobile+App+Specialist;Crafting+Beautiful+Mobile+Apps;Building+Digital+Experiences)](https://git.io/typing-svg)
+
+[![Flutter Badge](https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=082032)](https://flutter.dev)
+[![Dart Badge](https://img.shields.io/badge/Dart-Wizard-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=082032)](https://dart.dev)
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge&labelColor=082032)](https://github.com/suhailthakrani)
+[![Profile Views](https://komarev.com/ghpvc/?username=suhailthakrani&style=for-the-badge&color=blueviolet&labelColor=082032)](https://github.com/suhailthakrani)
+
+</div>
+
+## 🚀 About Me
+
+```dart
+class FlutterDeveloper {
+  final String name = "Suhail Thakrani";
+  final String role = "Flutter Developer";
+
+  final List<String> passions = [
+    "Cross-Platform Excellence",
+    "UI/UX Excellence",
+    "Performance Optimization",
+    "State Management Excellence",
+    "Community Involvement",
+    "Adapting to AI and Machine Learning",
+    "App Security",
+    "Continuous Learning and Growth",
+  ];
+
+  final List<String> architectures =  [
+    'MVC & MVVM Patterns',
+    'Clean Architecture',
+    'DRY & SOLID Principles',
+    'Repository Pattern',
+    'Dependency Injection',
+    'Domain-Driven Design'
+  ];
+
+  final List<String> uiCapabilities = [
+    'Custom Painters',
+    'Complex Animations',
+    'Responsive Layouts',
+    'Platform-Specific Design',
+    'Custom Widgets',
+    'Gesture Handling',
+    'Hero Transitions'
+  ];
+
+  final List<String> backendIntegration = [
+    'RESTful APIs',
+    'GraphQL',
+    'WebSocket',
+    'Firebase Services',
+    'Push Notifications',
+    'OAuth Implementation',
+    'Real-time Updates'
+  ];
+
+  final List<String> toolsExpertise: [
+    'Android Studio',
+    'VS Code',
+    'Git Version Control',
+    'Firebase Console',
+    'Google Cloud Console',
+    'Play Console',
+    'Flutter DevTools'
+  ]
+
+  
+  void dailyRoutine() {
+    while (true) {
+      drinkCoffee();
+      writeCleanCode();
+      solveProblems();
+      learnNewThings();
+      repeat();
+    }
+  }
+}
+```
+
+## 💫 What I Do Best
+
+<div align="center">
+
+| Mobile Excellence | Architecture & Patterns | DevOps & Tools |
+|------------------|------------------------|----------------|
+| 📱 Cross-Platform Apps | 🏗️ Clean Architecture | 🛠️ CI/CD Pipelines |
+| 🎨 Stunning UI/UX | 📐 SOLID Principles | 🔄 Git Flow |
+| ⚡ High Performance | 🧩 Design Patterns | 📊 Analytics |
+| 🔒 App Security | 🏢 MVVM/BLoC | 🚀 FastLane |
+
+</div>
+
+## 🛠️ Tech tack
+
+<div align="center">
+
+### Core Tools and Technologies
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23008139.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%2300C7B7.svg?style=for-the-badge&logo=Supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405E.svg?style=for-the-badge&logo=SQLite&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)
+![Agora](https://img.shields.io/badge/Agora-%232A9D8E.svg?style=for-the-badge&logo=Agora&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-%23006A5D.svg?style=for-the-badge&logo=WebRTC&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2338A1F3.svg?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23F8981D.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
-<h2>
-  <img src="https://emojis.slackmojis.com/emojis/images/1660415433/60795/folded-hands.gif?1660415433" width="30"/>
-  𝕃𝕖𝕥’𝕤 ℂ𝕠𝕟𝕟𝕖𝕔𝕥
-</h2>
+### State Management
+![BLoC/Cubit](https://img.shields.io/badge/Bloc-Pattern-FF5722?style=for-the-badge&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-Framework-9C27B0?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-State-00C853?style=for-the-badge&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-Next_Gen-0288D1?style=for-the-badge&logo=flutter&logoColor=white)
 
-<table width="100">
-<tr>
-  <td align='center' width="200" height = "120">
-    <a href="mailto:suhailthakrani12@gmail.com"><img align="bottom" src="https://github.com/suhailthakrani/suhailthakrani/blob/main/email.png" width="80" height/></a>
-  </td>
-  <td align='center' width="200">
-    <a href="https://www.linkedin.com/in/suhailthakrani/" target="blank">
-      <img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhail-thakrani" width="80" />
-    </a>
-  </td>
-  <td align='center' width="200">
-    <a href="https://leetcode.com/suhailthakrani/" target="blank">
-      <img align="bottom" src="https://github.com/suhailthakrani/suhailthakrani/blob/main/download.png" alt="suhail-thakrani" width="80" />
-    </a>
-  </td>
-</tr>
+</div>
+
+<!-- ## 🌟 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="project-link">
+        <img src="/api/placeholder/320/180" width="320px" alt="Project 1"/><br/>
+        <sub><b>🏆 Super App</b></sub>
+      </a>
+      <br/>
+      <sub>1M+ Downloads</sub>
+    </td>
+    <td align="center">
+      <a href="project-link">
+        <img src="/api/placeholder/320/180" width="320px" alt="Project 2"/><br/>
+        <sub><b>🎮 Game App</b></sub>
+      </a>
+      <br/>
+      <sub>Featured on Play Store</sub>
+    </td>
   </tr>
 </table>
 
-<h2>⚡𝕃anguages and 𝕥ools</h2>  
-<table width="100">
-<tr>
-    <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="80">
-    </td>
- <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="80">
-    </td>
-  <td align='center' width="200">
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="80">
-    </td>
+</div> -->
 
- <td align='center' width="200">
-        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
-    </td>
-  
-</tr>
-</table>
+## 📊 GitHub Magic
 
+<div align="center">
 
-<!-- <a href="https://stackoverflow.com/users/19723870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19723870" height="30" width="40" /></a> -->
-<!-- <a href="https://www.youtube.com/c/suhail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code senpaiii" height="30" width="40" /></a> -->
-<!-- <a href="https://www.hackerrank.com/suhail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suhailthakrani" height="30" width="40" /></a> -->
-<!-- <a href="https://www.leetcode.com/suhail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suhailthakrani" height="30" width="40" /></a> -->
-<!--</p> 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suhailthakrani&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E2FF&ring=00E2FF&fire=FF6B6B&currStreakNum=00E2FF&sideNums=00E2FF&currStreakLabel=00E2FF&sideLabels=00E2FF&dates=4C5462)](https://github.com/suhailthakrani)
 
-<!--<h2>𝕃anguages and 𝕥ools</h2>-->
-<!-- <p align="left"> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p> -->
+</div>
 
-<!-- <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?suhailthakrani=adityaseth777&&show_icons=true&theme=dark" alt="suhailthakrani" /></p> -->
+## 🎯 Current Focus
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhailthakrani&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=1F222E" alt="suhailthakrani" /></p> -->
-<!-- ![](https://github-readme-stats.vercel.app/api?username=suhailthakrani&theme=gotham&hide_border=true&include_all_commits=true&count_private=true) -->
- <h2>🚀GitHub Analytics</h2>
-        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhailthakrani&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" alt="suhailthakrani" /></p>
-   
-<h2><img align = 'center' src="https://emojis.slackmojis.com/emojis/images/1660415397/60712/writing-hand.gif?1660415397" width="30"/> 𝔻𝕖𝕧 ℚ𝕦𝕠𝕥𝕖</h2>
+```dart
+Future<void> goals2025() async {
+  await Future.wait([
+    masterFlutterAdvanceConcepts(),
+    masterRiverpod(),
+    contributeToOpenSource(),
+    buildAmazingApps(),
+    microservicsIntegration()
+  ]);
+}
+```
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<!-- ## 💡 Blog & Contributions
 
+- 📝 [Medium Articles](todolink)
+- 🎥 [YouTube Tutorials](todolink)
+- 🔗 [Stack Overflow](todolink)
+- 🌐 [Personal Website](todolink) -->
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suhailthakrani&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
+## 🤝 Let's Connect!
 
-<h2><img src="https://slackmojis.com/emojis/60722-clown-face/download" width="30"/> 𝕎𝕒𝕥𝕔𝕙 𝕞𝕪 ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟 𝔾𝕣𝕒𝕡𝕙 𝕘𝕖𝕥 𝕖𝕒𝕥𝕖𝕟 𝕓𝕪 𝕥𝕙𝕖 𝕊𝕟𝕒𝕜𝕖</h2>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhailthakrani/)
+[![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhailthakrani12@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/suhailthakrani/)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](todo)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](todo)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](todo) -->
+
+</div>
+
+## 📈 Impact Stats
+
+<!-- <div align="center">
+
+| Metric | Count |
+|--------|--------|
+| 📱 Apps Published | 15+ |
+| ⭐ Github Stars | 500+ |
+| 👥 Users Reached | 1M+ |
+| 🎯 Packages Published | 10+ |
+
+</div> -->
+
+<div align="center">
+
+### 🎬 Watch My Contribution Graph Come Alive
 
 ![Snake animation](https://raw.githubusercontent.com/suhailthakrani/suhailthakrani/b5a0c10c1d2945157dc33e6f8d11cc55b23f167e/github-contribution-grid-snake.svg)
 
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=suhailthakrani&icon=1&color=7)](https://visitcount.itsvg.in)
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/suhailthakrani)
+
+### ✨ Let's create something amazing together!
+
+
+-----
+
+#### "The mind is everything. What you think you become."  — **Buddha**
+
+</div>
