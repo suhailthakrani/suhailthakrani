@@ -14,7 +14,7 @@
 ```dart
 class FlutterDeveloper {
   final String name = "Suhail Thakrani";
-  final String role = "Flutter Developer";
+  final String role = "Mobile App Developer | Flutter Specialist | Cross Platform App Developer";
 
   final List<String> passions = [
     "Cross-Platform Excellence",
@@ -69,11 +69,11 @@ class FlutterDeveloper {
   
   void dailyRoutine() {
     while (true) {
-      drinkCoffee();
-      writeCleanCode();
-      solveProblems();
-      learnNewThings();
-      repeat();
+      drinkCoffee(☕);
+      writeCleanCode(💡);
+      solveProblems(🔍);
+      learnNewThings(📚);
+      repeat(🔄);
     }
   }
 }
@@ -83,12 +83,16 @@ class FlutterDeveloper {
 
 <div align="center">
 
-| Mobile Excellence | Architecture & Patterns | DevOps & Tools |
-|------------------|------------------------|----------------|
-| 📱 Cross-Platform Apps | 🏗️ Clean Architecture | 🛠️ CI/CD Pipelines |
-| 🎨 Stunning UI/UX | 📐 SOLID Principles | 🔄 Git Flow |
-| ⚡ High Performance | 🧩 Design Patterns | 📊 Analytics |
-| 🔒 App Security | 🏢 MVVM/BLoC | 🚀 FastLane |
+| Mobile Excellence | Architecture & Patterns | DevOps & Tools | Best Practices & Concepts |
+|------------------|------------------------|----------------|------------------------|
+| 📱 Cross-Platform | 🏗️ Clean Architecture | 🛠️ CI/CD Pipelines | 🎯 DRY, KISS & YAGNI Principles |
+| 🎨 Stunning UI/UX | 📐 SOLID Principles | 🔄 GitHub Actions | 🚦 State Management (BLoC, Riverpod, Provider, Redux, GetX) |
+| ⚡ High Performance | 🧩 Design Patterns | 📊 Firebase Analytics | 🏆 DDD (Domain-Driven Design) |
+| 🔒 App Security | 🏢 MVVM/BLoC/MVC | ☁️ Cloud Functions | 🔗 Dependency Injection |
+| 🌍 Localization & Accessibility | 🎭 Repository Pattern | 🔥 Firebase Firestore/Realtime DB | 📏 Code Linting & Formatting |
+| 🏎️ Animations & Custom Paint | 🎯 UseCase Pattern | 📡 REST & GraphQL APIs | 💡 Unit, Widget & Integration Testing |
+| 🔧 Platform Channels | 🔀 CQRS & Event-Driven Architecture | 🌐 WebSockets & Real-Time Updates | ⏳ Asynchronous Programming (Future, Stream) |
+| 🏗️ Modular Architecture | 🏛️ Service Layer Abstraction | 📞 Audio & Video Call Apis (Agora, WebRTC, etc. | 📂 Clean Code & Folder Structure |
 
 </div>
 
@@ -222,11 +226,35 @@ Future<void> goals2025() async {
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/suhailthakrani)
 
+</div>
+
+<div align="center">
+
 ### ✨ Let's create something amazing together!
 
+</div>
 
------
+<div align="center">
 
-#### "The mind is everything. What you think you become."  — **Buddha**
+### 📜 Wisdom for Coders & Creators
 
 </div>
+
+```dart
+abstract class DeveloperPhilosophy {
+  static const principles = {
+    "Design": "Design is not just what it looks like and feels like. Design is how it works. - Steve Jobs",
+    "Problem Solving": "First, solve the problem. Then, write the code. - John Johnson",
+    "Innovation": "Stay hungry. Stay foolish. - Steve Jobs",
+    "Learning": "Learning never exhausts the mind. - Leonardo da Vinci",
+    "Perseverance": "It always seems impossible until it's done. - Nelson Mandela",
+    "Excellence": "The difference between ordinary and extraordinary is that little extra. - Jimmy Johnson",
+    "Growth": "I have not failed. I've just found 10,000 ways that won't work. - Thomas Edison",
+    "Mindset": "The mind is everything. What you think you become. - Buddha",
+    "Leadership": "A leader is one who knows the way, goes the way, and shows the way. - John Maxwell",
+    "Decision Making": "Think 100 times before you take a decision, But once that decision is taken, stand by it as one man. - Quaid-e-Azam"
+  };
+}
+```
+
+
