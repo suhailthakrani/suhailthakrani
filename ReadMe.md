@@ -122,8 +122,7 @@ class DigitalCraftsman {
 | 🔒 Data Encryption           | 🧪 Unit Testing           | 🧹 Linting (Dart/Flutter)|
 | 🔑 OAuth 2.0 Implementation  | 🧩 Widget Testing         | 📐 Code Formatting        |
 | 🛡️ Secure Storage           | 🚦 Integration Testing    | 📚 Documentation          |
-| 🔍 Penetration Testing       | 📊 Golden Tests           | 👀 Code Reviews            |
-| 📜 Compliance (GDPR, CCPA)   | 🧭 Mocking Services       | 🏗️ Modular Architecture  |
+| 🔍 Penetration Testing       | 🧭 Mocking Services        | 👀 Code Reviews            |
 
 ## 🚀 Project Lifecycle Management
 
@@ -131,7 +130,6 @@ class DigitalCraftsman {
 |-----------------------------|---------------------------|--------------------------|
 | 📝 User Story Mapping       | 🧩 Feature Development    | 🚀 Play Store Deployment  |
 | 🎨 Prototyping (Figma)      | 🔄 State Management       | 🍎 App Store Deployment   |
-| ⚙️ Tech Specification       | 🧪 Test-Driven Development| 🔄 OTA Updates            |
 | 📊 Resource Planning        | 🛠️ CI/CD Integration     | 🐛 Bug Tracking           |
 | 🎯 Scope Definition         | 📱 Platform Adaptation    | 📈 Performance Monitoring |
 
