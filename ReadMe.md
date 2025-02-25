@@ -113,7 +113,6 @@ class DigitalCraftsman {
 | <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="24"/> VS Code | 🌐 REST APIs             | ☁️ Cloud Functions        |
 | <img src="https://img.icons8.com/color/48/git.png" width="24"/> Git           | 🧩 GraphQL               | 📦 Fastlane               |
 | <img src="https://img.icons8.com/color/48/flutter.png" width="24"/> Flutter DevTools | 📡 WebSocket            | 🔄 Codemagic/Bitrise      |
-| <img src="https://img.icons8.com/color/48/docker.png" width="24"/> Docker      | ☁️ AWS Amplify          | 📊 Sentry Monitoring      |
 
 ## 🛡️ Security & Quality
 
