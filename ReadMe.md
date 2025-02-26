@@ -11,127 +11,36 @@
 
 > #### "Flutter isn't just my skill—it's my canvas. Every app is a work of art." 🎨🚀
 
-## 🚀 Code Alchemist Profile
 
-```dart
-## 🚀 About Me
+## 💫 What I Bring to the Table 
 
 <div align="center">
 
-```dart
-class DigitalCraftsman {
+## 🔥 Technical Foundation & Architecture 🔥
+| Architectural Patterns ⚙️    | State Management ✨        | Design Principles 🧠     | Development Tools 🛠️     |
+|------------------------------|--------------------------|-------------------------|--------------------------|
+| 🏛️ Clean Architecture        | 🧊 BLoC/Cubit            | ✅ SOLID Principles     | <img src="https://img.icons8.com/color/48/android-studio--v3.png" width="24"/> Android Studio |
+| 🏗️ MVVM/MVC                  | 🌊 Riverpod              | 🎯 DRY Principle        | <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="24"/> VS Code |
+| 🚀 Domain-Driven Design      | 🧩 Provider              | 🔄 KISS Philosophy      | <img src="https://img.icons8.com/color/48/git.png" width="24"/> Git |
+| 🌀 Dependency Injection      | 🧭 GetX                  | 🛠️ YAGNI Approach       | <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="24"/> Postman |
 
-  // Core Identity
-  final String _name = "Suhail Thakrani";
-  final String _title = "Flutter Architect";
-  final String _mantra = "Build → Learn → Repeat 🔁";
-  
-  // Development DNA
-  Map<String, dynamic> get _skillset => {
+## 💎 UI/UX & Integration 💎
+| Visual Design 🎨            | User Interaction ✨        | Backend Services 📡      | Performance Optimization 🏎️ |
+|------------------------------|--------------------------|-------------------------|--------------------------|
+| 🌐 Responsive Layouts        | 🔀 Hero Transitions      | 🔥 Firebase 🟢 Supabase | 🚀 Lazy Loading           |
+| 🎭 Custom Widgets            | 📲 Touch Feedback        | 🌐 REST APIs            | 📦 Efficient Bundling     |
+| 📱 Platform-Specific UI      | 🎮 Advanced Gestures     | 🧩 GraphQL              | 🧠 Memory Optimization    |
+| 🖥️ Adaptive Design          | 🔄 Smooth Scroll         | 📡 WebSocket            | 🧹 Garbage Collection     |
+| 🖌️ Custom Painters          | ✨ Complex Animations    | ☁️ Cloud Functions      | ⚡ 60+ FPS Rendering      |
 
-    '🎯 Specialization': {
-      '💻': 'Cross-Platform Development',
-      '📱': 'Native-like Experiences',
-      '🚀': 'High-Performance Apps'
-    },
-
-    '🏗️ Architecture': [
-      'Clean Architecture',
-      'MVVM/MVC Patterns',
-      'Domain-Driven Design'
-    ].map((tech) => '✨ $tech').toList(),
-    '🎨 UI/UX Mastery': {
-      '🖌️': 'Custom Paint & Animations',
-      '📐': 'Responsive Layouts',
-      '🌀': 'Complex Transitions'
-    },
-
-    '⚙️ Backend Integration': [
-      'Firebase', 'REST/GraphQL', 
-      'Real-time Systems'
-    ].map((tech) => '🔌 $tech').toList()
-  };
-
-  // Daily Rhythm
-  void _dailyCycle() => executeTasks([
-    Task('☕ Code Brewing', emoji: '🧑💻'),
-    Task('🛠️ Feature Crafting', emoji: '⚡'),
-    Task('📚 Knowledge Harvesting', emoji: '🌱'),
-    Task('🚀 Performance Tuning', emoji: '⏱️')
-  ]);
-}
-```
-
-## 🚀 Code Alchemist: Crafting Scalable & Secure Apps  
-
-<div align="center">
-
-### 🔥 Architecting Systems, Elevating UX, and Boosting Performance  
-
-| Category              | Core Competencies                                                                 |
-|-----------------------|-----------------------------------------------------------------------------------|
-| **🧬 Architecture**    | `Clean Architecture` `MVVM` `BLoC` `Repository Pattern` `Dependency Injection`    |
-| **🎨 UI/UX**          | `Custom Painters` `Complex Animations` `Platform-Specific Design` `Hero Transitions` |
-| **⚡ Performance**    | `Rendering Optimization` `Memory Management` `Isolate Implementation` `App Size Reduction` |
-| **🔐 Security**       | `OAuth Implementation` `Data Encryption` `Secure Storage` `Penetration Testing`   |
-| **🛠️ Tech Arsenal**   | ![Flutter](https://img.icons8.com/color/20/flutter.png) Flutter &nbsp;&nbsp; ![Firebase](https://img.icons8.com/color/20/firebase.png) Firebase &nbsp;&nbsp; ![MongoDB](https://img.icons8.com/color/20/mongodb.png) MongoDB &nbsp;&nbsp; ![GraphQL](https://img.icons8.com/color/20/graphql.png) &nbsp;&nbsp; GraphQL ![Git](https://img.icons8.com/color/20/git.png) Git |
-
-</div>
-
-
-</div>
-
-## 💫 What I Bring to the Table
-
-<div align="center">
-
-## 🛠️ Technical Architecture
-
-| Architectural Patterns       | State Management          | Design Principles        |
-|------------------------------|---------------------------|--------------------------|
-| 🏛️ Clean Architecture        | 🧊 BLoC Pattern           | ✅ SOLID Principles       |
-| 🏗️ MVVM/MVC                  | 🌊 Riverpod               | 🎯 DRY Principle          |
-| 🧩 Repository Pattern        | 🧩 Provider               | 🔄 KISS Philosophy        |
-| 🚀 Domain-Driven Design      | 🧭 GetX                   | 🛠️ YAGNI Approach         |
-| 🌀 Dependency Injection      | ⚡ Cubit                  | 📐 Separation of Concerns |
-
-## 🎨 UI/UX Expertise
-
-| Visual Design                | Interaction               | Performance              |
-|------------------------------|---------------------------|--------------------------|
-| 🖌️ Custom Painters          | ✨ Complex Animations     | ⚡ 60+ FPS Rendering      |
-| 📱 Platform-Specific UI      | 🎮 Advanced Gestures      | 🧠 Memory Optimization   |
-| 🌐 Responsive Layouts        | 🔀 Hero Transitions       | 🚀 Lazy Loading           |
-| 🎭 Custom Widgets            | 📲 Touch Feedback         | 📦 Efficient Bundling     |
-| 🖥️ Adaptive Design          | 🔄 Smooth Scroll          | 🧹 Garbage Collection    |
-
-## 🔧 Development Toolkit
-
-| IDEs & Tools                | Backend Integration       | DevOps & CI/CD           |
-|------------------------------|---------------------------|--------------------------|
-| <img src="https://img.icons8.com/color/48/android-studio--v3.png" width="24"/> Android Studio | 🔥 Firebase              | 🚀 GitHub Actions         |
-| <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="24"/> VS Code | 🌐 REST APIs             | ☁️ Cloud Functions        |
-| <img src="https://img.icons8.com/color/48/git.png" width="24"/> Git           | 🧩 GraphQL               | 📦 Fastlane               |
-| <img src="https://img.icons8.com/color/48/flutter.png" width="24"/> Flutter DevTools | 📡 WebSocket            | 🔄 Codemagic/Bitrise      |
-
-## 🛡️ Security & Quality
-
-| Security Practices           | Testing Strategies        | Code Quality             |
-|------------------------------|---------------------------|--------------------------|
-| 🔒 Data Encryption           | 🧪 Unit Testing           | 🧹 Linting (Dart/Flutter)|
-| 🔑 OAuth 2.0 Implementation  | 🧩 Widget Testing         | 📐 Code Formatting        |
-| 🛡️ Secure Storage           | 🚦 Integration Testing    | 📚 Documentation          |
-| 🔍 Penetration Testing       | 🧭 Mocking Services        | 👀 Code Reviews            |
-
-## 🚀 Project Lifecycle Management
-
-| Requirement Analysis        | Development Phase         | Deployment & Maintenance |
-|-----------------------------|---------------------------|--------------------------|
-| 📝 User Story Mapping       | 🧩 Feature Development    | 🚀 Play Store Deployment  |
-| 🎨 Prototyping (Figma)      | 🔄 State Management       | 🍎 App Store Deployment   |
-| 📊 Resource Planning        | 🛠️ CI/CD Integration     | 🐛 Bug Tracking           |
-| 🎯 Scope Definition         | 📱 Platform Adaptation    | 📈 Performance Monitoring |
-
+## ⚔️ Quality Assurance & Project Management ⚔️
+| Security Measures 🔒         | Testing & Code Quality 🧪 | Project Planning 📋     | Deployment & Monitoring 🚀 |
+|------------------------------|--------------------------|-------------------------|---------------------------|
+| 🔒 Data Encryption           | 🧪 Unit Testing          | 📝 User Story Mapping   | 🚀 App Deployment         |
+| 🔑 OAuth 2.0 Implementation  | 🧩 Widget Testing        | 🎯 Scope Definition     | 🐛 Bug Tracking           |
+| 🛡️ Secure Storage           | 🚦 Integration Testing   | 📊 Resource Planning    | 📈 Performance Monitoring |
+| 🧹 Linting (Dart/Flutter)    | 📐 Code Formatting       | 🧩 Feature Development  | 🚀 GitHub Actions         |
+| 📚 Documentation             | 📱 Platform Adaptation   | 🔄 State Management     |                           |
 </div>
 
 ## 🛠️ Tech stack
@@ -184,56 +93,6 @@ class DigitalCraftsman {
 </a>
 
 </div>
-
-## 🌱 Growth Ecosystem
-
-```dart
-struct DeveloperEvolution {
-    current_focus: Vec<&'static str> = vec![
-        "Advanced State Management", 
-        "AI/ML Integration", 
-        "Micro Frontends"
-    ];
-    learning_rate: f64 = 1.5; // 150% YoY growth
-    knowledge_base: HashMap<&'static str, ExpertiseLevel> = hashmap! {
-        "Flutter" => ExpertiseLevel::Master,
-        "Dart" => ExpertiseLevel::Expert,
-        "Mobile Security" => ExpertiseLevel::Advanced
-    };
-}
-```
-
-## 🎯 Current Focus
-
-```dart
-Future<void> goals2025() async {
-  await Future.wait([
-    masterFlutterAdvanceConcepts(),
-    masterRiverpod(),
-    contributeToOpenSource(),
-    buildAmazingApps(),
-    microservicesIntegration(),
-    exploreFlutterWebAndDesktop(),
-    implementAIInMobileApps()
-  ]);
-}
-```
-
-## 🛠️ Creation Manifesto
-
-```dart
-class DevelopmentPrinciples:
-    def __init__(self):
-        self.quality_metrics = {
-            'code_cleanliness': '★★★★★',
-            'performance_grade': 'A+',
-            'security_level': 'Military Grade',
-            'user_experience': 'Pixel Perfect'
-        }
-        
-    def deliver(self):
-        return "Apps that don't just work, but _excel_"
-```
 
 ## 🤝 Let's Connect!
 
@@ -307,6 +166,4 @@ class DevelopmentPrinciples:
 
 If you liked this, **please star the repo**! 🌟  
 
-Feel free to **copy, use, or update** this for your own README. 🚀  
-
-Would you like any more tweaks? 😃
+Feel free to **copy, use, or update** this for your README. 🚀  
