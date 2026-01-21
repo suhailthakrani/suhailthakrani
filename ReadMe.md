@@ -1,6 +1,6 @@
 <div align="center">
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00E2FF&random=false&width=600&lines=Hello+%F0%9F%91%8B+I'm+Flutter+Developer;Crafting+Beautiful+Mobile+Apps;Building+Digital+Experiences)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00E2FF&random=false&width=600&lines=Hello+%F0%9F%91%8B+I'm+Mobile+App+Developer;Crafting+Beautiful+Mobile+Apps;Building+Digital+Experiences)](https://git.io/typing-svg)
 
 [![Flutter Badge](https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=082032)](https://flutter.dev)
 [![Dart Badge](https://img.shields.io/badge/Dart-Wizard-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=082032)](https://dart.dev)
